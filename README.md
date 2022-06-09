@@ -1,2 +1,5 @@
 # 42-libft
-The libft project at 42 schools.
+My implementation on some of the very basic C library functions.
+# Usage
+`make` compiles without bonus functions.
+`make bonus` compiles bonus functions.
