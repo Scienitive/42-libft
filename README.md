@@ -4,7 +4,7 @@ Score: 125/100
 
 My implementation on some of the very basic C library functions.
 
-# Usage
+## Usage
 
 `make` compiles without bonus functions.
 
